@@ -1,5 +1,7 @@
 # JSPM
 jspm_packages/
+build.js
+build.js.map
 
 ### Node template
 # Logs
